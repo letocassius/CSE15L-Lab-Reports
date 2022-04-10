@@ -26,16 +26,15 @@ After that, type in your password and your can access a computer on UCSD campus 
 
 ## Trying Some Commands
 Now you can try to run some commands on the server using your device! Here are some interesting commands to get you started:
-- cd
-- ls
-- ls -lat
--a
-<directory> where <directory> is
-/home/linux/ieng6/cs15lsp22/cs15lsp22abc, where the abc is one
-of the other group members’ username
-● cp /home/linux/ieng6/cs15lsp22/public/hello.txt ~/
-● cat /home/linux/ieng6/cs15lsp22/public/hello.txt
-
+- `cd ~`
+- `cd`
+- `ls -lat`
+- `ls -a`
+- `ls <directory>` where `<directory>` is `/home/linux/ieng6/cs15lwi22/cs15lwi22apl`
+(where again `wi22` is replaced by the time you're taking this class, and `apl` is replaced by
+the letters in your course-specific account.)
+- `cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/`
+- `cat /home/linux/ieng6/cs15lwi22/public/hello.txt`
 
 
 ## Moving Files with scp
