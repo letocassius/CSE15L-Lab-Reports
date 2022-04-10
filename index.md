@@ -26,13 +26,9 @@ After that, type in your password and your can access a computer on UCSD campus 
 
 ## Trying Some Commands
 Now you can try to run some commands on the server using your device! Here are some interesting commands to get you started:
-● cd
-● cd
-● ls
-● ls
-● ls
-~
--lat
+- cd
+- ls
+- ls -lat
 -a
 <directory> where <directory> is
 /home/linux/ieng6/cs15lsp22/cs15lsp22abc, where the abc is one
