@@ -44,10 +44,15 @@ For example, your will be able to to see all your files withn your do `ls -a`. Y
 Now we are able to do some work on local and remote computers. A key step in working remotely is the ability to copy files between the your comuter (client) and the UCSD computer (server). To do this, we could use the `scp` command. We will be ablt to run this command from the *client*, without logging into `ieng6`.
 
 1. First make a file called `WhereAmI.java`, and compile using `javac` run it with`java`.
+<img width="815" alt="Screen Shot 2022-04-10 at 5 19 23 PM" src="https://user-images.githubusercontent.com/64039891/162646351-6117e5a1-b631-4705-80d4-f8a8ccd0bc26.png">
 2. Then, in the terminal from where you made this file, run the following command using your username:
 `scp WhereAmI.java cs15lsp22aoo@ieng6.ucsd.edu:~/`
+It should look like this:
+<img width="1129" alt="Screen Shot 2022-04-10 at 5 21 54 PM" src="https://user-images.githubusercontent.com/64039891/162646490-73c2ef23-608f-464c-bb16-6a0e804f36fd.png">
 3. Log into the server again through `ssh`, and do the `ls` command in the terminal. Now you could see that the file is that you just created in been copies to the server.
+ <img width="800" alt="Screen Shot 2022-04-10 at 5 25 14 PM" src="https://user-images.githubusercontent.com/64039891/162646642-8a25404a-8a93-4fc2-8704-08c1026a47a2.png">
 4.Now run it again using `javac` and `java` on the ieng6 computer using   and java.
+<img width="500" alt="Screen Shot 2022-04-10 at 5 26 32 PM" src="https://user-images.githubusercontent.com/64039891/162646697-4c16b003-a3a3-43e2-993d-9d8488dd544f.png">
 
 ## Part 5 - Setting an SSH Key
 
