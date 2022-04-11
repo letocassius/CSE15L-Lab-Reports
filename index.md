@@ -81,5 +81,6 @@ Now back on the client!
 
 ## Part 5 - Optimizing Remote Running
 sometimes we want to make a local edit to a fileWe can use the following command to save time: We can use the following command to save time:
+
 <img width="818" alt="Screen Shot 2022-04-10 at 6 54 40 PM" src="https://user-images.githubusercontent.com/64039891/162652276-be29945f-2a66-40b2-9f2e-927a28e6ea15.png">
 
