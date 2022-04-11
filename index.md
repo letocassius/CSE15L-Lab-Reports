@@ -55,6 +55,28 @@ It should look like this:
 <img width="500" alt="Screen Shot 2022-04-10 at 5 26 32 PM" src="https://user-images.githubusercontent.com/64039891/162646697-4c16b003-a3a3-43e2-993d-9d8488dd544f.png">
 
 ## Part 5 - Setting an SSH Key
+Notice how when you log into the server, it is always required type in your password. This process can be anoying. To avoid this, there is a great solution – `ssh` keys. We are going to use a program called `ssh-keygen`.
+
+We could set it up like this. 
+<img width="631" alt="Screen Shot 2022-04-10 at 5 33 28 PM" src="https://user-images.githubusercontent.com/64039891/162647187-08def8eb-e1e1-43f5-92d0-6e392d56db50.png">
+
+This created two new files on your system; the private key `id_rsa` and the public key `id_rsa.pub`, stored in the .ssh directory on your computer.
+
+Now you're going to copy the **public** key to the `.ssh` directory from your computer to the server.
+
+1. `ssh cs15lsp22aoo@ieng6.ucsd.edu`
+
+enter the password and log on to server.
+
+2. `mkdir .ssh`
+<img width="376" alt="Screen Shot 2022-04-10 at 5 44 00 PM" src="https://user-images.githubusercontent.com/64039891/162647742-5a419132-ec76-44f3-92ee-c6d0b7552233.png">
+
+
+3. Log off of the server using `exit`
+Now back on the client!
+
+<img width="777" alt="Screen Shot 2022-04-10 at 6 17 30 PM" src="https://user-images.githubusercontent.com/64039891/162649665-6def141f-0e8e-49e3-9085-fc8e713cadda.png">
+
 
 
 ## Part 5 - Optimizing Remote Running
