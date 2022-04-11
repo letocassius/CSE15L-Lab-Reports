@@ -75,7 +75,7 @@ enter the password and log on to server.
 3. Log off of the server using `exit`
 Now back on the client!
 
-4. you now can use'$ scp <path for id_rsa.pub> cs15lsp22aoo@ieng6.ucsd.edu:~/.ssh/authorized_keys
+4. you now can use`$ scp <path for id_rsa.pub> cs15lsp22aoo@ieng6.ucsd.edu:~/.ssh/authorized_keys`
 # You use your username and the path you saw in the command above'
 
 
