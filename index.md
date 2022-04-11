@@ -41,9 +41,17 @@ For example, your will be able to to see all your files withn your do `ls -a`. Y
 
 
 ## Part 4 - Moving Files with scp
+Now we are able to do some work on local and remote computers. A key step in working remotely is the ability to copy files between the your comuter (client) and the UCSD computer (server). To do this, we could use the `scp` command. We will be ablt to run this command from the *client*, without logging into `ieng6`.
 
-## Setting an SSH Key
+1. First make a file called `WhereAmI.java`, and compile using `javac` run it with`java`.
+2. Then, in the terminal from where you made this file, run the following command using your username:
+`scp WhereAmI.java cs15lsp22aoo@ieng6.ucsd.edu:~/`
+3. Log into the server again through `ssh`, and do the `ls` command in the terminal. Now you could see that the file is that you just created in been copies to the server.
+4.Now run it again using `javac` and `java` on the ieng6 computer using   and java.
 
-## Optimizing Remote Running
+## Part 5 - Setting an SSH Key
+
+
+## Part 5 - Optimizing Remote Running
 
 
