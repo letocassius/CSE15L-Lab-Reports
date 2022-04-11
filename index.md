@@ -75,10 +75,11 @@ enter the password and log on to server.
 3. Log off of the server using `exit`
 Now back on the client!
 
-<img width="777" alt="Screen Shot 2022-04-10 at 6 17 30 PM" src="https://user-images.githubusercontent.com/64039891/162649665-6def141f-0e8e-49e3-9085-fc8e713cadda.png">
-
+4. you now can use'$ scp <path for id_rsa.pub> cs15lsp22aoo@ieng6.ucsd.edu:~/.ssh/authorized_keys
+# You use your username and the path you saw in the command above'
 
 
 ## Part 5 - Optimizing Remote Running
-
+sometimes we want to make a local edit to a fileWe can use the following command to save time: We can use the following command to save time:
+<img width="818" alt="Screen Shot 2022-04-10 at 6 54 40 PM" src="https://user-images.githubusercontent.com/64039891/162652276-be29945f-2a66-40b2-9f2e-927a28e6ea15.png">
 
