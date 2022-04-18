@@ -4,7 +4,7 @@ this is a tutorial for incoming 15L students about how to log into a course-spec
 
 ## Part 1 -  - Installing VScode
 
-Go to the[Visual Studio Code website](https://code.visualstudio.com)and follow the instructions to download and install it on your computer. Choose your version base on your device type.
+Go to the [Visual Studio Code website](https://code.visualstudio.com) and follow the instructions to download and install it on your computer. Choose your version base on your device type.
 
 When it is installed, you should be able to open a window. It should look similar to this:
 <img width="1351" alt="Screen Shot 2022-04-10 at 3 44 00 PM" src="https://user-images.githubusercontent.com/64039891/162643108-88e13fdc-6f90-41db-9563-8582b4ab866b.png">
