@@ -13,9 +13,9 @@ The color and the menu bar might be different based on your setting.
 ## Part 2 - Remotely Connecting
 You will be remote connecting to a UCSD computer from your device using VScode. 
 
-if you’re on Windows you will need to install a program called OpenSSH Using the procedure on this [link]:(https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse).
+if you’re on Windows you will need to install a program called OpenSSH Using the procedure on this [link]((https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse).
 
-When you finish Look up your course-specific account for CSE15L [here](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
+When you finish Look up your course-specific account for CSE15L [here](https://sdacs.ucsd.edu/~icc/index.php).
 
 Then, in VSCode, open a new terminal and type in your command to connect to the remote computer. which will look like this, except the letters "aoo" will be repalced with your own course-specific account.  
 
