@@ -2,4 +2,4 @@
 
 ## Lab repot 1 (week 2) [here]()
 
-## Lab repot 2 (week 4) [here]()
+## Lab repot 2 (week 4) [here](https://letocassius.github.io/Week-4-Lab-Reports/Lab%20report%20week2.html)
